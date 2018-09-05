@@ -1,5 +1,1049 @@
 #EXTM3U
-#EXTINF:-1, Shaun's Streams
-http://shaunfossett.weebly.com
-#EXTINF:-1, WABC-TV New York, NY
-https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/WABCLive1.m3u8
+#EXTINF:-1,USA: Miami TV HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3822.ts
+#EXTINF:-1,USA: FOX Sport 1 HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/371.ts
+#EXTINF:-1,USA: FOX Sport 2 HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/370.ts
+#EXTINF:-1,USA: FOX Sports Indiana HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4040.ts
+#EXTINF:-1,USA: FOX Sports Atlanta HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4037.ts
+#EXTINF:-1,USA: FOX Sports Carolinas HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4038.ts
+#EXTINF:-1,USA: FOX Sports Cincinnati HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4039.ts
+#EXTINF:-1,USA: FOX Sports Prime Ticket HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4041.ts
+#EXTINF:-1,USA: FOX Sports San Diego HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4042.ts
+#EXTINF:-1,USA: FOX Sports SportsTime Ohio HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4044.ts
+#EXTINF:-1,USA: FOX Sports Sw HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4045.ts
+#EXTINF:-1,USA: FOX Sports Yes HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4046.ts
+#EXTINF:-1,USA: ESPN 1 HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1336.ts
+#EXTINF:-1,USA: ESPN 2 HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1335.ts
+#EXTINF:-1,USA: ESPN News HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2989.ts
+#EXTINF:-1,USA: ESPN U HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2990.ts
+#EXTINF:-1,USA: ESPN Network HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2988.ts
+#EXTINF:-1,USA: NBCSN (Bay Area) HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4054.ts
+#EXTINF:-1,USA: NBCSN (Boston) HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4055.ts
+#EXTINF:-1,USA: NBCSN (California) HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4059.ts
+#EXTINF:-1,USA: NBCSN (Chicago) HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4056.ts
+#EXTINF:-1,USA: NBCSN (North West) HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4057.ts
+#EXTINF:-1,USA: NBCSN (Philadelphia) HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4058.ts
+#EXTINF:-1,USA: NBCSN (Washington) HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4060.ts
+#EXTINF:-1,USA: NBCSN Epl HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4053.ts
+#EXTINF:-1,USA: NBC Sport Network
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1326.ts
+#EXTINF:-1,USA: NBC Golf HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1150.ts
+#EXTINF:-1,USA: SportsNet ONE HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4066.ts
+#EXTINF:-1,USA: SportsNet LA (Los Angeles) HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4065.ts
+#EXTINF:-1,USA: SportsNet 360 HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4064.ts
+#EXTINF:-1,USA: SportsNet World HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4063.ts
+#EXTINF:-1,USA: Bein Sports US HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4029.ts
+#EXTINF:-1,USA: BTN Sport HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4030.ts
+#EXTINF:-1,USA: Goal Line HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4047.ts
+#EXTINF:-1,USA: New England Sports Network HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4061.ts
+#EXTINF:-1,USA: Stadium 1 HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4067.ts
+#EXTINF:-1,USA: Stadium 2 HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4068.ts
+#EXTINF:-1,USA: Stadium 3 HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4069.ts
+#EXTINF:-1,USA: PAC-12 Washington HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/360.ts
+#EXTINF:-1,USA: PAC-12 Los Angeles HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/361.ts
+#EXTINF:-1,USA: PAC-12 Arizona HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/359.ts
+#EXTINF:-1,USA: PAC-12 Oregon HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/356.ts
+#EXTINF:-1,USA: PAC-12 Mountain HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/355.ts
+#EXTINF:-1,USA: PAC-12 Network HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/358.ts
+#EXTINF:-1,USA: PAC-12 Bay Area HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/357.ts
+#EXTINF:-1,USA: TSN Sport 1
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/376.ts
+#EXTINF:-1,USA: TSN Sport 2
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/375.ts
+#EXTINF:-1,USA: TSN Sport 3
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/374.ts
+#EXTINF:-1,USA: TSN Sport 4
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/373.ts
+#EXTINF:-1,USA: TSN Sport 5
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/372.ts
+#EXTINF:-1,USA: NFL Now Live
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2994.ts
+#EXTINF:-1,USA: NFL Network HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1253.ts
+#EXTINF:-1,USA: NFL Red Zone HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4062.ts
+#EXTINF:-1,USA: NHL Network HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2995.ts
+#EXTINF:-1,USA: WWE Network HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1755.ts
+#EXTINF:-1,USA: MLB Network HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1965.ts
+#EXTINF:-1,USA: MSG HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4051.ts
+#EXTINF:-1,USA: NBA US HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/363.ts
+#EXTINF:-1,USA: NBA TV HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4070.ts
+#EXTINF:-1,USA: Tennis Channel HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2998.ts
+#EXTINF:-1,USA: Willow Cricket HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3001.ts
+#EXTINF:-1,USA: USA Network
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1766.ts
+#EXTINF:-1,USA: TRT World HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4027.ts
+#EXTINF:-1,USA: CW (Seattle) HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4036.ts
+#EXTINF:-1,USA: AMC
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1895.ts
+#EXTINF:-1,USA: TNT
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1769.ts
+#EXTINF:-1,USA: TBS
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1770.ts
+#EXTINF:-1,USA: PBS
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2996.ts
+#EXTINF:-1,USA: GSN (Game Show Network)
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4024.ts
+#EXTINF:-1,USA: OWN HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4026.ts
+#EXTINF:-1,USA: BYU TV HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4031.ts
+#EXTINF:-1,USA: MUTE TV HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4052.ts
+#EXTINF:-1,USA: Mavs Tv HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4050.ts
+#EXTINF:-1,USA: Bravo HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1897.ts
+#EXTINF:-1,USA: FXX HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2991.ts
+#EXTINF:-1,USA: Epix HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4023.ts
+#EXTINF:-1,USA: Viceland HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2999.ts
+#EXTINF:-1,USA: IFC (Independent Film Channel) HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4048.ts
+#EXTINF:-1,USA: LifeTime Movies HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4049.ts
+#EXTINF:-1,USA: HD Net Movies HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4025.ts
+#EXTINF:-1,USA: DayStar HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4022.ts
+#EXTINF:-1,USA: American Hero HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4020.ts
+#EXTINF:-1,USA: Catholic TV HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4033.ts
+#EXTINF:-1,USA: BET HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/4021.ts
+#EXTINF:-1,USA: NBC HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1325.ts
+#EXTINF:-1,USA: CNBC HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1765.ts
+#EXTINF:-1,USA: CBS 47
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3000.ts
+#EXTINF:-1,USA: CBS Los Angeles HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3849.ts
+#EXTINF:-1,USA: CNN HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1322.ts
+#EXTINF:-1,USA: ABC HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/747.ts
+#EXTINF:-1,US: C SPAIN 1
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/16688.ts
+#EXTINF:-1,US: C SPAIN 2
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/16689.ts
+#EXTINF:-1,US: C SPAIN 3
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/16690.ts
+#EXTINF:-1,US: TSN SPORT 1
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20254.ts
+#EXTINF:-1,US: TSN SPORT 2
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20255.ts
+#EXTINF:-1,US: TSN SPORT 3
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20256.ts
+#EXTINF:-1,US: TSN SPORT 4
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20600.ts
+#EXTINF:-1,US: TSN SPORT 5
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20599.ts
+#EXTINF:-1,US: FOX 25 BOSTON
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15598.ts
+#EXTINF:-1,US: Eternal Life TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9460.ts
+#EXTINF:-1,US: SCC TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9463.ts
+#EXTINF:-1,US: 5 USA
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19358.ts
+#EXTINF:-1,US: 3ABN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9465.ts
+#EXTINF:-1,US: CBS 47 NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7785.ts
+#EXTINF:-1,US: LTV EDU
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20964.ts
+#EXTINF:-1,US: Cerritos TV3
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9467.ts
+#EXTINF:-1,US: CBN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9469.ts
+#EXTINF:-1,US: Bloomington TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22089.ts
+#EXTINF:-1,US: Discovery World
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22088.ts
+#EXTINF:-1,US: CBN NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9468.ts
+#EXTINF:-1,US: CBSN News
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9477.ts
+#EXTINF:-1,US: CMC
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9458.ts
+#EXTINF:-1,US: PAC-12 Arizona
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9470.ts
+#EXTINF:-1,US: PAC-12 Bay Area
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9472.ts
+#EXTINF:-1,US: PAC-12 Mountain
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9473.ts
+#EXTINF:-1,US: PAC-12 Network
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9476.ts
+#EXTINF:-1,US:  PAC-12 Los Angeles
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9471.ts
+#EXTINF:-1,US: PAC-12 Oregon
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9474.ts
+#EXTINF:-1,US: PAC-12 Washington
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9475.ts
+#EXTINF:-1,US: FOX 23 NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7789.ts
+#EXTINF:-1,US: HOPE CHANNEL
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7793.ts
+#EXTINF:-1,US: INFOWARS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18853.ts
+#EXTINF:-1,US: DAYSTAR TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18854.ts
+#EXTINF:-1,US: CALIFORNIA MUSIC
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18873.ts
+#EXTINF:-1,US: DAYTONA
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18856.ts
+#EXTINF:-1,US: DCN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18857.ts
+#EXTINF:-1,US: DKN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18858.ts
+#EXTINF:-1,US: WHPR TV 33 Detroit
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18860.ts
+#EXTINF:-1,US: NFL NETWORK
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18861.ts
+#EXTINF:-1,US: SBN TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18862.ts
+#EXTINF:-1,US: NBC 11
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18863.ts
+#EXTINF:-1,US: RT NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18864.ts
+#EXTINF:-1,US: SG TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18865.ts
+#EXTINF:-1,US: Southeastern Channel
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18866.ts
+#EXTINF:-1,US: KIRO-TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18867.ts
+#EXTINF:-1,US: TUFF  TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18868.ts
+#EXTINF:-1,US: TVV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18869.ts
+#EXTINF:-1,US: Denver 8 TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18870.ts
+#EXTINF:-1,US: GC Church TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18871.ts
+#EXTINF:-1,US: WGN TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18872.ts
+#EXTINF:-1,US: PIX 11
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7802.ts
+#EXTINF:-1,US: MNN TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9459.ts
+#EXTINF:-1,US: The Florida Channel
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9455.ts
+#EXTINF:-1,US: NEWSMAX TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7797.ts
+#EXTINF:-1,US: KTNV 13 News
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7770.ts
+#EXTINF:-1,US: AMGA TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11548.ts
+#EXTINF:-1,US:  RADIO MONTE CARLO TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11561.ts
+#EXTINF:-1,US:  Zarin TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11562.ts
+#EXTINF:-1,US:  RETRO MUSIC
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11567.ts
+#EXTINF:-1,US:  AKC TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11604.ts
+#EXTINF:-1,US: GOD TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11526.ts
+#EXTINF:-1,US: ABC HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11568.ts
+#EXTINF:-1,US:  Virgin TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11596.ts
+#EXTINF:-1,US: ITVN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11602.ts
+#EXTINF:-1,US: CTN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11236.ts
+#EXTINF:-1,US: BLOOMBERG
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11234.ts
+#EXTINF:-1,US: NLF
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18421.ts
+#EXTINF:-1,US: MSNBC
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18688.ts
+#EXTINF:-1,US: Ditty TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18689.ts
+#EXTINF:-1,US: WGN NEWS CHICAGO
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/13612.ts
+#EXTINF:-1,US: ABC   east
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18851.ts
+#EXTINF:-1,US: IMPAC FRESLING
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18852.ts
+#EXTINF:-1,US: KEY TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11235.ts
+#EXTINF:-1,US: ARTS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18906.ts
+#EXTINF:-1,US: HOUSE CHANNEL
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18920.ts
+#EXTINF:-1,US: Catholic TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18918.ts
+#EXTINF:-1,US: San Francisco Gov TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18910.ts
+#EXTINF:-1,US: Cascade Hills Church
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18908.ts
+#EXTINF:-1,US: LTV GOV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20461.ts
+#EXTINF:-1,US: NBC
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20451.ts
+#EXTINF:-1,US: ABNSAT TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21584.ts
+#EXTINF:-1,US: CNN int
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21186.ts
+#EXTINF:-1,US: Columbia Network
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20452.ts
+#EXTINF:-1,US: LTV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20515.ts
+#EXTINF:-1,US: Knowledge Network
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20453.ts
+#EXTINF:-1,US: Kool TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20456.ts
+#EXTINF:-1,US: NBC 5
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20258.ts
+#EXTINF:-1,US: IBN TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20259.ts
+#EXTINF:-1,US: SBN Domestic
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21577.ts
+#EXTINF:-1,US: SBN Global
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21578.ts
+#EXTINF:-1,US: SBN International
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21579.ts
+#EXTINF:-1,US: NWCT 12
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20262.ts
+#EXTINF:-1,US: TCT KIDS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21576.ts
+#EXTINF:-1,US: The Blaze
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20462.ts
+#EXTINF:-1,US: The Country Network
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20463.ts
+#EXTINF:-1,US: The NOW Network
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21583.ts
+#EXTINF:-1,US: TBN armenial
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20265.ts
+#EXTINF:-1,US: EWTN espanol
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18909.ts
+#EXTINF:-1,US: JCTV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18915.ts
+#EXTINF:-1,US: DHTV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18905.ts
+#EXTINF:-1,US: PCTV 26
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18914.ts
+#EXTINF:-1,US: Little Saigon TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18907.ts
+#EXTINF:-1,US: SFGovTV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18917.ts
+#EXTINF:-1,US: SBN Internacional TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18911.ts
+#EXTINF:-1,US: ACRE TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18940.ts
+#EXTINF:-1,US: The Beach Channel
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18930.ts
+#EXTINF:-1,US: CYC
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18929.ts
+#EXTINF:-1,US: TVW 2
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21582.ts
+#EXTINF:-1,US: WWE Network HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21064.ts
+#EXTINF:-1,US: Central Valley Talk
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18938.ts
+#EXTINF:-1,US: WPCH TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18936.ts
+#EXTINF:-1,US: City of Charlotte
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18934.ts
+#EXTINF:-1,US: RADUT TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18941.ts
+#EXTINF:-1,US: CT-N
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18939.ts
+#EXTINF:-1,US: REVN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18927.ts
+#EXTINF:-1,US: Jewelry TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18924.ts
+#EXTINF:-1,US: LA 36
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18925.ts
+#EXTINF:-1,US: LFUCG
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18928.ts
+#EXTINF:-1,US: Cable Central TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18922.ts
+#EXTINF:-1,US: Oscar Aguero Ministry
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18932.ts
+#EXTINF:-1,US: RadioU TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18931.ts
+#EXTINF:-1,US: RTN Channel 11
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18937.ts
+#EXTINF:-1,US: SFGovTV 2
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18933.ts
+#EXTINF:-1,US: SPRIT TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18923.ts
+#EXTINF:-1,US: TCT
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18926.ts
+#EXTINF:-1,US: WCCA TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18935.ts
+#EXTINF:-1,US: Better Life TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18912.ts
+#EXTINF:-1,US: TVW Cable Channel
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18919.ts
+#EXTINF:-1,US: WACX TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18921.ts
+#EXTINF:-1,US: InfoWars TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18913.ts
+#EXTINF:-1,US: BYU.TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18816.ts
+#EXTINF:-1,US: Free Speech TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18880.ts
+#EXTINF:-1,US: WRXY-TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7805.ts
+#EXTINF:-1,US: OWN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18881.ts
+#EXTINF:-1,US: United Nations TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18878.ts
+#EXTINF:-1,US: FOX 5 NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18882.ts
+#EXTINF:-1,US: WGGS-TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18904.ts
+#EXTINF:-1,US: NFL Now TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18874.ts
+#EXTINF:-1,US: 10 Health TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18883.ts
+#EXTINF:-1,US: NEWS 25
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18877.ts
+#EXTINF:-1,US: CHANNEL 11 NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20469.ts
+#EXTINF:-1,US: KOB 4 NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20468.ts
+#EXTINF:-1,US: LifeChurch TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20268.ts
+#EXTINF:-1,US: ABC 7 NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20457.ts
+#EXTINF:-1,US: Midpeninsula TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20458.ts
+#EXTINF:-1,US: Collier TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20460.ts
+#EXTINF:-1,US: Red Bull tv
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19383.ts
+#EXTINF:-1,US: TVW
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20464.ts
+#EXTINF:-1,US: Voice of America
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20465.ts
+#EXTINF:-1,US: VTV Channel 6 Colorado
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20466.ts
+#EXTINF:-1,US: WEATHER CHANNEL
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20247.ts
+#EXTINF:-1,US: WGN 9 HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19381.ts
+#EXTINF:-1,US: KVLA TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20467.ts
+#EXTINF:-1,US: ORANGE TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20459.ts
+#EXTINF:-1,US: FOX 25 NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20454.ts
+#EXTINF:-1,US: Comedy TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20455.ts
+#EXTINF:-1,US: ABC NEWS HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19387.ts
+#EXTINF:-1,US: NewsChannel 21
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18879.ts
+#EXTINF:-1,US: Capital TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18459.ts
+#EXTINF:-1,US: WBRZ-TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18875.ts
+#EXTINF:-1,US: ESPN  NBA
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19749.ts
+#EXTINF:-1,US: SBN Global TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18815.ts
+#EXTINF:-1,US: Most Video TV HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18447.ts
+#EXTINF:-1,US: WVLR-TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11597.ts
+#EXTINF:-1,US: Jewish Life TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9984.ts
+#EXTINF:-1,US: CARTOON
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7806.ts
+#EXTINF:-1,US: New Orleans TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7807.ts
+#EXTINF:-1,USA: NBA
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/10016.ts
+#EXTINF:-1,USA: 5 USA
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/10009.ts
+#EXTINF:-1,USA: ABC
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/10027.ts
+#EXTINF:-1,USA: AMC HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/10018.ts
+#EXTINF:-1,USA: BBC ONE
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/10023.ts
+#EXTINF:-1,USA: CNBC
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/10026.ts
+#EXTINF:-1,USA: CNN INTERNATIONAL
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/10010.ts
+#EXTINF:-1,USA: COMEDY CENTRAL HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/10012.ts
+#EXTINF:-1,USA: DISCOVERY HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/10011.ts
+#EXTINF:-1,USA: ESPN HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/10008.ts
+#EXTINF:-1,USA: FOX NEWS
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/10025.ts
+#EXTINF:-1,USA: HBO
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/10022.ts
+#EXTINF:-1,USA: HBO 1
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/10021.ts
+#EXTINF:-1,USA: HBO SIGNATURE
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/10020.ts
+#EXTINF:-1,USA: NBC HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/10017.ts
+#EXTINF:-1,USA: NFL
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/10019.ts
+#EXTINF:-1,USA: NFL  NETWORK
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/10024.ts
+#EXTINF:-1,USA: TSN 5 HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/10003.ts
+#EXTINF:-1,USA:  HBO Zone HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11493.ts
+#EXTINF:-1,USA: A&E TV HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11494.ts
+#EXTINF:-1,USA: ABC HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11495.ts
+#EXTINF:-1,USA: ABC News
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11492.ts
+#EXTINF:-1,USA: Action Max HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11491.ts
+#EXTINF:-1,USA: Animal Planet
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11490.ts
+#EXTINF:-1,USA: Animal Planet HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11496.ts
+#EXTINF:-1,USA: Bloomberg
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11488.ts
+#EXTINF:-1,USA: CAN: TSN 3 HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11487.ts
+#EXTINF:-1,USA: CBS HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11498.ts
+#EXTINF:-1,USA: Cinemax 5 StarMax
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11499.ts
+#EXTINF:-1,USA: Cinemax ActionMax East
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11500.ts
+#EXTINF:-1,USA: Cinemax East
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11501.ts
+#EXTINF:-1,USA: Cinemax HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11484.ts
+#EXTINF:-1,USA: Cinemax Moremax
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11502.ts
+#EXTINF:-1,USA: CNN HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11503.ts
+#EXTINF:-1,USA: Comedy Central
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11483.ts
+#EXTINF:-1,USA: CW HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11504.ts
+#EXTINF:-1,USA: Discovery Channel HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11505.ts
+#EXTINF:-1,USA: Discovery Science HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11506.ts
+#EXTINF:-1,USA: DIY Network
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11507.ts
+#EXTINF:-1,USA: E!
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11482.ts
+#EXTINF:-1,USA: ESPN
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11508.ts
+#EXTINF:-1,USA: ESPN 2
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11509.ts
+#EXTINF:-1,USA: ESPN 2 HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11481.ts
+#EXTINF:-1,USA: ESPN Deportes
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11480.ts
+#EXTINF:-1,USA: ESPN News HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11479.ts
+#EXTINF:-1,USA: ESPN U HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11478.ts
+#EXTINF:-1,USA: ESPN USA HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11477.ts
+#EXTINF:-1,USA: Fight Network
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11476.ts
+#EXTINF:-1,USA: Food Network HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11510.ts
+#EXTINF:-1,USA: Fox HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11475.ts
+#EXTINF:-1,USA: FOX NEWS HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11511.ts
+#EXTINF:-1,USA: FOXX HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11512.ts
+#EXTINF:-1,USA: FreeRom HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11513.ts
+#EXTINF:-1,USA: FX
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11474.ts
+#EXTINF:-1,USA: FX HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11514.ts
+#EXTINF:-1,USA: FXX
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11473.ts
+#EXTINF:-1,USA: Golf HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11472.ts
+#EXTINF:-1,USA: H2
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11515.ts
+#EXTINF:-1,USA: HALLMARK
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11516.ts
+#EXTINF:-1,USA: HBO Comedy
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11471.ts
+#EXTINF:-1,USA: HBO Family HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11517.ts
+#EXTINF:-1,USA: HBO PlUSA:
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11518.ts
+#EXTINF:-1,USA: HBO Zone
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11470.ts
+#EXTINF:-1,USA: HGTV
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11469.ts
+#EXTINF:-1,USA: HISTORY
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11519.ts
+#EXTINF:-1,USA: Investigation Discovery
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11520.ts
+#EXTINF:-1,USA: Investigation Discovery HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11468.ts
+#EXTINF:-1,USA: LIFE TIME
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11521.ts
+#EXTINF:-1,USA: MLB Network HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11467.ts
+#EXTINF:-1,USA: MoreMax HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11466.ts
+#EXTINF:-1,USA: National Geographic
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11523.ts
+#EXTINF:-1,USA: NATIONAL GEOOGRAPHIC HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11522.ts
+#EXTINF:-1,USA: NBC
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11464.ts
+#EXTINF:-1,USA: SPIKE HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11530.ts
+#EXTINF:-1,USA: SYFY HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11535.ts
+#EXTINF:-1,USA: TBS HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11536.ts
+#EXTINF:-1,USA: Tennis Channel HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11449.ts
+#EXTINF:-1,USA: TLC HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11448.ts
+#EXTINF:-1,USA: TNT HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11447.ts
+#EXTINF:-1,USA: Univision Deportes
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11446.ts
+#EXTINF:-1,USA: USA NETWORK HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11445.ts
+#EXTINF:-1,USA: USA: A&E
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11444.ts
+#EXTINF:-1,USA: USA:A Network HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11537.ts
+#EXTINF:-1,USA: Viceland
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11443.ts
+#EXTINF:-1,USA: Willow Cricket HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11442.ts
+#EXTINF:-1,USA: WWE HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11538.ts
+#EXTINF:-1,USA: WWE Network HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11441.ts
+#EXTINF:-1,USA: NBA HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11465.ts
+#EXTINF:-1,UK: BBC One HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/243.ts
+#EXTINF:-1,UK: BBC Two HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/242.ts
+#EXTINF:-1,UK: BBC Three HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1269.ts
+#EXTINF:-1,UK: BBC Four HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1266.ts
+#EXTINF:-1,UK: BBC Brit HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3286.ts
+#EXTINF:-1,UK: BBC CBeebies
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2854.ts
+#EXTINF:-1,UK: BBC News HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1268.ts
+#EXTINF:-1,UK: ITV 1
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/247.ts
+#EXTINF:-1,UK: ITV 2
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/246.ts
+#EXTINF:-1,UK: ITV 3
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/245.ts
+#EXTINF:-1,UK: ITV 4
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/244.ts
+#EXTINF:-1,UK: ITV Be
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3102.ts
+#EXTINF:-1,UK: RTE One HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1308.ts
+#EXTINF:-1,UK: RTE Two HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1309.ts
+#EXTINF:-1,UK: AMC HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3220.ts
+#EXTINF:-1,UK: Comedy Central HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3217.ts
+#EXTINF:-1,UK: SYFY HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1655.ts
+#EXTINF:-1,UK: Dave HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1649.ts
+#EXTINF:-1,UK: Universal Channel
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1656.ts
+#EXTINF:-1,UK: TCM
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1893.ts
+#EXTINF:-1,UK: Alibi HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3219.ts
+#EXTINF:-1,UK: Eden HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3194.ts
+#EXTINF:-1,UK: TLC HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3204.ts
+#EXTINF:-1,UK: Channel 4 HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1632.ts
+#EXTINF:-1,UK: Channel 5 HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/871.ts
+#EXTINF:-1,UK: Film 4 HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1892.ts
+#EXTINF:-1,UK: Watch HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2529.ts
+#EXTINF:-1,UK: 3e HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2530.ts
+#EXTINF:-1,UK: E4
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2522.ts
+#EXTINF:-1,UK: TV3
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2532.ts
+#EXTINF:-1,UK: More 4
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1079.ts
+#EXTINF:-1,UK: 4SEVEN
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1071.ts
+#EXTINF:-1,UK: 5 Usa
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1890.ts
+#EXTINF:-1,UK: 5 Star
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1891.ts
+#EXTINF:-1,UK: Gold
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1076.ts
+#EXTINF:-1,UK: STV
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3203.ts
+#EXTINF:-1,UK: CBS Action
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2527.ts
+#EXTINF:-1,UK: CBS Drama
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2526.ts
+#EXTINF:-1,UK: Movies 4 Men
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2536.ts
+#EXTINF:-1,UK: Yesterday
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2535.ts
+#EXTINF:-1,UK: Quest
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2524.ts
+#EXTINF:-1,UK: TG4
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2531.ts
+#EXTINF:-1,UK: Pick
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2528.ts
+#EXTINF:-1,UK: Challenge
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/2525.ts
+#EXTINF:-1,UK: Good Food
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1652.ts
+#EXTINF:-1,UK: Lifetime HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3210.ts
+#EXTINF:-1,UK: Discovery HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3215.ts
+#EXTINF:-1,UK: National Geographic HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3207.ts
+#EXTINF:-1,UK: Crime & Investigation HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3216.ts
+#EXTINF:-1,UK: National Geographic Wild HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3208.ts
+#EXTINF:-1,UK: History HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3211.ts
+#EXTINF:-1,UK: LUXE TV HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3209.ts
+#EXTINF:-1,UK: Cartoon Network HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3218.ts
+#EXTINF:-1,UK: Disney Junior HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3214.ts
+#EXTINF:-1,UK: Disney XD HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3213.ts
+#EXTINF:-1,UK: Nick HD
+http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/3206.ts
+#EXTINF:-1,UK_ABC_NEWS
+http://54.38.164.94:9222/live/newserver/moheddine/2349.ts
+#EXTINF:-1,UK_FRANCE24
+http://54.38.164.94:9222/live/newserver/moheddine/2348.ts
+#EXTINF:-1,UK_BBC.1
+http://54.38.164.94:9222/live/newserver/moheddine/3886.ts
+#EXTINF:-1,UK_BBC.2
+http://54.38.164.94:9222/live/newserver/moheddine/3885.ts
+#EXTINF:-1,UK_BBC3
+http://54.38.164.94:9222/live/newserver/moheddine/3884.ts
+#EXTINF:-1,UK_BBC4
+http://54.38.164.94:9222/live/newserver/moheddine/3883.ts
+#EXTINF:-1,UK_BT_Sports.1
+http://54.38.164.94:9222/live/newserver/moheddine/3907.ts
+#EXTINF:-1,UK_BT_Sports.2
+http://54.38.164.94:9222/live/newserver/moheddine/3906.ts
+#EXTINF:-1,UK_CBS-Action
+http://54.38.164.94:9222/live/newserver/moheddine/3893.ts
+#EXTINF:-1,UK_CBS-Drama
+http://54.38.164.94:9222/live/newserver/moheddine/3892.ts
+#EXTINF:-1,UK_CBS-Reality
+http://54.38.164.94:9222/live/newserver/moheddine/3891.ts
+#EXTINF:-1,UK_Disney-Junior
+http://54.38.164.94:9222/live/newserver/moheddine/3890.ts
+#EXTINF:-1,UK_NatGeo.Wild
+http://54.38.164.94:9222/live/newserver/moheddine/3888.ts
+#EXTINF:-1,UK_National-Geographic
+http://54.38.164.94:9222/live/newserver/moheddine/3887.ts
+#EXTINF:-1,UK_Nicktoon
+http://54.38.164.94:9222/live/newserver/moheddine/3889.ts
+#EXTINF:-1,UK_RTE_ONE
+http://54.38.164.94:9222/live/newserver/moheddine/3882.ts
+#EXTINF:-1,UK_RTE_TWO
+http://54.38.164.94:9222/live/newserver/moheddine/3881.ts
+#EXTINF:-1,UK: 3e
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11798.ts
+#EXTINF:-1,UK: 4Music
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11791.ts
+#EXTINF:-1,UK: 4Seven
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11790.ts
+#EXTINF:-1,UK: 5Star
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11789.ts
+#EXTINF:-1,UK: Alibi
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12789.ts
+#EXTINF:-1,UK: Animal Planet HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12835.ts
+#EXTINF:-1,UK: At The Races
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11788.ts
+#EXTINF:-1,UK: At The Races UK
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12790.ts
+#EXTINF:-1,UK: Baby Tv
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11787.ts
+#EXTINF:-1,UK: BBC 1 HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12836.ts
+#EXTINF:-1,UK: BBC 2
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/9384.ts
+#EXTINF:-1,UK: BBC 2 HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12837.ts
+#EXTINF:-1,UK: BBC 3 HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12791.ts
+#EXTINF:-1,UK: BBC 4 HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12792.ts
+#EXTINF:-1,UK: BBC NEWS
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/9386.ts
+#EXTINF:-1,UK: BBC ONE
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/9385.ts
+#EXTINF:-1,UK: BBC One Channel Islands
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11786.ts
+#EXTINF:-1,UK: BBC WORLD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11785.ts
+#EXTINF:-1,UK: BET
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11784.ts
+#EXTINF:-1,UK: Bloomberg
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11783.ts
+#EXTINF:-1,UK: Boomerang
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11782.ts
+#EXTINF:-1,UK: Boomerang HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11781.ts
+#EXTINF:-1,UK: Box Hits
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11780.ts
+#EXTINF:-1,UK: Capital TV
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11779.ts
+#EXTINF:-1,UK: CARTOON NETWORK HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/9355.ts
+#EXTINF:-1,UK: Cartoonito
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11778.ts
+#EXTINF:-1,UK: CBBS
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11777.ts
+#EXTINF:-1,UK: CBebbies
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11776.ts
+#EXTINF:-1,UK: CBS Action
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12839.ts
+#EXTINF:-1,UK: CBS Drama
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12840.ts
+#EXTINF:-1,UK: CBS Reality
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12811.ts
+#EXTINF:-1,UK: Challange  1
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11775.ts
+#EXTINF:-1,UK: Channel 4 HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12793.ts
+#EXTINF:-1,UK: CHANNEL 5 HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12819.ts
+#EXTINF:-1,UK: Channel 5 Star
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11774.ts
+#EXTINF:-1,UK: Channel 5 USA
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12834.ts
+#EXTINF:-1,UK: Channel AKA
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11773.ts
+#EXTINF:-1,UK: Chart Show Hits
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11772.ts
+#EXTINF:-1,UK: CHELSEA TV
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12823.ts
+#EXTINF:-1,UK: CITV
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11771.ts
+#EXTINF:-1,UK: CNN
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11770.ts
+#EXTINF:-1,UK: COLORS
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12841.ts
+#EXTINF:-1,UK: Comedy Central
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12875.ts
+#EXTINF:-1,UK: Comedy Central Extra
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11769.ts
+#EXTINF:-1,UK: COMEDY CENTRAL HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/9361.ts
+#EXTINF:-1,UK: Dave
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12794.ts
+#EXTINF:-1,UK: Discovery
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11768.ts
+#EXTINF:-1,UK: Discovery HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12795.ts
+#EXTINF:-1,UK: Discovery History
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12876.ts
+#EXTINF:-1,UK: Discovery Home & Health
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11767.ts
+#EXTINF:-1,UK: Discovery Investigation
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12796.ts
+#EXTINF:-1,UK: Discovery Science
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12842.ts
+#EXTINF:-1,UK: Discovery Shed
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11766.ts
+#EXTINF:-1,UK: Discovery Turbo
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11765.ts
+#EXTINF:-1,UK: Disney Channel  1
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11764.ts
+#EXTINF:-1,UK: DISNEY CHANNEL HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12843.ts
+#EXTINF:-1,UK: Disney Junior
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11805.ts
+#EXTINF:-1,UK: DISNEY XD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/9357.ts
+#EXTINF:-1,UK: DMAX
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12865.ts
+#EXTINF:-1,UK: E
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11797.ts
+#EXTINF:-1,UK: E  1
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11763.ts
+#EXTINF:-1,UK: E4
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12797.ts
+#EXTINF:-1,UK: ESPN HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12844.ts
+#EXTINF:-1,UK: Film 4
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12845.ts
+#EXTINF:-1,UK: Five
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12846.ts
+#EXTINF:-1,UK: Five UK
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12798.ts
+#EXTINF:-1,UK: Food Network
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12874.ts
+#EXTINF:-1,UK: FOX
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11761.ts
+#EXTINF:-1,UK: FOX NEWS
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/9362.ts
+#EXTINF:-1,UK: GOLD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12866.ts
+#EXTINF:-1,UK: HISTORY CHANNEL HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12847.ts
+#EXTINF:-1,UK: Home
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11759.ts
+#EXTINF:-1,UK: Horror Channel
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12873.ts
+#EXTINF:-1,UK: ITV
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12820.ts
+#EXTINF:-1,UK: ITV  1
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/9390.ts
+#EXTINF:-1,UK: ITV 1
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12821.ts
+#EXTINF:-1,UK: ITV 1 HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12848.ts
+#EXTINF:-1,UK: ITV 2
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/9389.ts
+#EXTINF:-1,UK: ITV 2 HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12799.ts
+#EXTINF:-1,UK: ITV 3
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/9388.ts
+#EXTINF:-1,UK: ITV 3 HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12800.ts
+#EXTINF:-1,UK: ITV 4
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/9387.ts
+#EXTINF:-1,UK: LIVERPOOL FC
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12867.ts
+#EXTINF:-1,UK: Living UK
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12801.ts
+#EXTINF:-1,UK: More 4
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12849.ts
+#EXTINF:-1,UK: MORE 4 HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/9363.ts
+#EXTINF:-1,UK: Motors TV
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11794.ts
+#EXTINF:-1,UK: MTV dance
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12803.ts
+#EXTINF:-1,UK: MTV HITS
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12850.ts
+#EXTINF:-1,UK: MU TV
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12851.ts
+#EXTINF:-1,UK: MUTV
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12852.ts
+#EXTINF:-1,UK: NAT GEO WILD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/9360.ts
+#EXTINF:-1,UK: NAT GEO WILD HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12853.ts
+#EXTINF:-1,UK: NATIONAL GEOGRAPHIC
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/9359.ts
+#EXTINF:-1,UK: National Geographic HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12804.ts
+#EXTINF:-1,UK: NICK JR.
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/9358.ts
+#EXTINF:-1,UK: NICK JUNIOR
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12854.ts
+#EXTINF:-1,UK: NICKELODEON
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/9356.ts
+#EXTINF:-1,UK: NICKTOONS
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12868.ts
+#EXTINF:-1,UK: Pick
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12805.ts
+#EXTINF:-1,UK: Racing UK HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12807.ts
+#EXTINF:-1,UK: RTE 1 HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12808.ts
+#EXTINF:-1,UK: RTE 2 HD
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12855.ts
+#EXTINF:-1,UK: Setanta Ireland
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/12809.ts
+#EXTINF:-1,UK: Watch
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11753.ts
+#EXTINF:-1,UK: Yesterday
+http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/11752.ts
